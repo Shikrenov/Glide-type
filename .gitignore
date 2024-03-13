@@ -1,10 +1,2 @@
-/node.modules
-node_modules
-/.next/node_modules
-.next/node_modules
-.next/node
-modules
-node_modules
-next/
 .next/
-.next
+node_modules
